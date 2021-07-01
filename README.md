@@ -1,5 +1,5 @@
 # CodeMonTech
-[![Twitter Badge](https://img.shields.io/badge/-@Codemon-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Codemon_)](https://twitter.com/_Codemon_) [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Codemon/)](https://www.linkedin.com/in/kunalraghav/) [![Medium Badge](https://img.shields.io/badge/-@Codemon-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@Codemon/)](https://medium.com/@codemon/)
+[![Twitter Badge](https://img.shields.io/badge/-@Codemon-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Codemon_)](https://twitter.com/_Codemon_) [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Codemon/)](https://www.linkedin.com/in/codemon/) [![Medium Badge](https://img.shields.io/badge/-@Codemon-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@Codemon/)](https://medium.com/@codemon/)
 [![Gmail Badge](https://img.shields.io/badge/-codemon.tech3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:kraghav123@gmail.com)
 
 ## Hi 👋, 
